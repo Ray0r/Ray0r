@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ray0r
+- 👋 Hi, I’m Rayor
 - 👀 I’m interested in frontend
 - 🌱 I'm Owner of [Rayor's Website](https://rayor.fr)
 - 💞️ I’m looking to collaborate on my API
